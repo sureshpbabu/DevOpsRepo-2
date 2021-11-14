@@ -1,0 +1,7 @@
+public stativ void main()
+
+{
+
+
+
+}
